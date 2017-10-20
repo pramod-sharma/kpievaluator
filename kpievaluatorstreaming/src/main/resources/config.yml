@@ -1,0 +1,7 @@
+zookeeperIp: localhost
+zookeeperPort: 2181
+topic: UserInfo
+group: kpi
+numThreads: 2
+batchSizeInMinutes: 1
+kpiCollectionName: hourlyKpiData
